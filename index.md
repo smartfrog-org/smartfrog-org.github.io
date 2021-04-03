@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# SmartFrog
 
-You can use the [editor on GitHub](https://github.com/ConfiguredThings/SmartFrog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the SmartFrog roject landing page. Here you can find information regarding SmartFrog.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![smartfrog logo](resources/images/smartfrog_full_colour.svg)
 
-### Markdown
+## History
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SmartFrog was originally developed by HP Labs Bristol and later open-sourced. It is of the earliest examples of a declarative configuration language and runtime.
 
-```markdown
-Syntax highlighted code block
+Following Hewlett Packard Enterprise's closure of its Security and Cloud Lab in Bristol, its ongoing support and development was withdrawn.
 
-# Header 1
-## Header 2
-### Header 3
+The project's source code is available on [SourceForge](https://sourceforge.net/projects/smartfrog/).
 
-- Bulleted
-- List
+## Future
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ConfiguredThings/SmartFrog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In 2018 Patrick Goldsack, one of SmartFrog's authors, co-founded [Configured Things](https://configuredthings.com) a startup specialising in systems that enable Smart Cities and the federated Internet of Things. Configured Things are actively developing the next version of SmartFrog, SFJS, built on Node.js with configuration descriptions. To find out more details, you can visit their [project page](https://www.configuredthings.com/smartfrog/).
