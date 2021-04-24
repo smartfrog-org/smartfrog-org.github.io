@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+title: SmartFrog
+github:
+  is_project_page: true
+  repository_url: https://github.com/smartfrog-org/smartfrog-org.github.io
+  repository_name: smartfrog-org.github.io
+  owner_url: https://github.com/smartfrog-org
+  owner_name: smartfrog-org
+url: https://smartfrog.org
+plugins:
+  - jekyll-sitemap
