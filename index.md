@@ -22,7 +22,7 @@ SmartFrog was originally developed by HP Labs Bristol and later open-sourced. It
 
 For a more general introduction to the benefits of declarative configuration management, see Paul Anderson's 2017 "Composition and Inheritance in Declarative Configuration Languages" talk at Microsoft Research, Cambridge. Paul details the history of configuration management and SmartFrog's role within it. <https://www.youtube.com/watch?v=iXo7DtFx-jM>. 
 
-Following Hewlett Packard Enterprise's closure of its Security and Cloud Lab in Bristol, the company's ongoing support and development of the project was withdrawn.
+Following Hewlett Packard Enterprise's closure of its Security and Cloud Lab in Bristol during 2017, the company's ongoing support and development of the project was withdrawn.
 
 The project's source code is available on [SourceForge](https://sourceforge.net/projects/smartfrog/).
 
