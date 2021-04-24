@@ -9,3 +9,4 @@ github:
 url: https://smartfrog.org
 plugins:
   - jekyll-sitemap
+google_analytics: UA-115878924-2
