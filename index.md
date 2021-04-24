@@ -11,6 +11,7 @@ Welcome to the SmartFrog project landing page. Here you can find information reg
 SmartFrog was originally developed by HP Labs Bristol and later open-sourced. It is of the earliest examples of a declarative configuration language and runtime. For more details you can see the following resources:
 - Anderson, P., Herry, H. A Formal Semantics for the SmartFrog Configuration Language. Journal of Network and Systems Management 24, 309–345 (2016). [doi:10.1007/s10922-015-9351-y](https://doi.org/10.1007/s10922-015-9351-y).
 - Goldsack, Patrick; Guijarro, Julio; Loughran, Steve; Coles, Alistair; Farrell, Andrew; Lain, Antonio; Murray, Paul; Toft, Peter (2009). "The Smart Frog configuration management framework". ACM SIGOPS Operating Systems Review. 43: 16–25. [doi:10.1145/1496909.1496915](https://doi.org/10.1145%2F1496909.1496915).
+- Patrick Goldsack, Paul Murray, Andrew Farrell, Peter Toft (2008). SmartFrog and Data Centre Automation (HPL-2008-35). HP Labs. <https://www.hpl.hp.com/techreports/2008/HPL-2008-35.pdf>
 - Steve Loughran & Julio Guijarro (2007). Farms, Fabrics and Clouds. HP Labs. <http://people.apache.org/~stevel/slides/farms_fabrics_and_clouds.pdf>.
 - Steve Loughran & Julio Guijarro (2006). Distributed Testing with SmartFrog. Google London Test Automation Conference. <https://www.youtube.com/watch?v=NKshZGUWHJ4>.
 - Steve Loughran & Julio Guijarro (2005). Taming Deployment with SmartFrog. HP Labs. <https://www.hpl.hp.com/breweb/smartfrog/presentations/Taming_deployment_with_SmartFrog.pdf>.
