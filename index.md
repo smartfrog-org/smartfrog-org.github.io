@@ -18,7 +18,7 @@ SmartFrog was originally developed by HP Labs Bristol and later open-sourced. It
 - Steve Loughran & Julio Guijarro (2005). Taming Deployment with SmartFrog. HP Labs. <https://www.hpl.hp.com/breweb/smartfrog/presentations/Taming_deployment_with_SmartFrog.pdf>.
 - Goldsack, Patrick; Guijarro, Julio; Lain, Antonio; Mecheneau, Guillaume; Murray, Paul; Toft, Peter (2003). "SmartFrog: Configuration and Automatic Ignition of Distributed Applications": 1–9. CiteSeerX [10.1.1.187.8478](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.187.8478).
 - Anderson, P., Goldsack, P. and Paterson, J. (2003). SmartFrog Meets LCFG: Autonomous Reconfiguration with Central Policy Control. In LISA (Vol. 3, pp. 213-222). <https://www.usenix.org/legacy/event/lisa03/tech/full_papers/anderson/anderson_html/>
-- Anderson, P., Beckett, G., Kavoussanakis, K., Mecheneau, G., Paterson, J. and Toft, P. (2003). large-scale system configuration with LCFG and SmartFrog. Technical report, The GridWeaver Project. [10.1.1.397.6064]<http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.397.6064>
+- Anderson, P., Beckett, G., Kavoussanakis, K., Mecheneau, G., Paterson, J. and Toft, P. (2003). large-scale system configuration with LCFG and SmartFrog. Technical report, The GridWeaver Project. [10.1.1.397.6064](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.397.6064)
 
 For a more general introduction to the benefits of declarative configuration management, see Paul Anderson's 2017 "Composition and Inheritance in Declarative Configuration Languages" talk at Microsoft Research, Cambridge. Paul details the history of configuration management and SmartFrog's role within it. <https://www.youtube.com/watch?v=iXo7DtFx-jM>. 
 
