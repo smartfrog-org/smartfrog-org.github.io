@@ -20,7 +20,7 @@ SmartFrog was originally developed by HP Labs Bristol and later open-sourced. It
 - Anderson, P., Goldsack, P. and Paterson, J. (2003). SmartFrog Meets LCFG: Autonomous Reconfiguration with Central Policy Control. In LISA (Vol. 3, pp. 213-222). <https://www.usenix.org/legacy/event/lisa03/tech/full_papers/anderson/anderson_html/>
 - Anderson, P., Beckett, G., Kavoussanakis, K., Mecheneau, G., Paterson, J. and Toft, P. (2003). large-scale system configuration with LCFG and SmartFrog. Technical report, The GridWeaver Project. [10.1.1.397.6064](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.397.6064)
 
-For a more general introduction to the benefits of declarative configuration management, see Paul Anderson's 2017 "Composition and Inheritance in Declarative Configuration Languages" talk at Microsoft Research, Cambridge. Paul details the history of configuration management and SmartFrog's role within it. <https://www.youtube.com/watch?v=iXo7DtFx-jM>. 
+For a more general introduction to the benefits of declarative configuration management, see Paul Anderson's 2017 "Composition and Inheritance in Declarative Configuration Languages" talk at Microsoft Research, Cambridge. In his talk Paul details the history of configuration management and SmartFrog's role within it. <https://www.youtube.com/watch?v=iXo7DtFx-jM>. 
 
 Following Hewlett Packard Enterprise's closure of its Security and Cloud Lab in Bristol during 2017, the company's ongoing support and development of the project was withdrawn.
 
